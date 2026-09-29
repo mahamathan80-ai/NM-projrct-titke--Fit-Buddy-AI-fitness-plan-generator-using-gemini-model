@@ -1,0 +1,1 @@
+# NM-projrct-titke--Fit-Buddy-AI-fitness-plan-generator-using-gemini-model
